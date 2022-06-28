@@ -5,7 +5,9 @@ A simple E-commerce website using CSS, JAVASCRIPT and HTML.
 
 # :house_with_garden: website screenshots.
 
-![IMG_20220628_195824](https://user-images.githubusercontent.com/92304590/176205800-6433326c-4492-4dbd-970d-6247b9fa0b1c.jpg) 
+![Screenshot_2022-06-28-21-08-05-86](https://user-images.githubusercontent.com/92304590/176221638-58db190a-579b-4884-862a-ad01aec8d9a4.png)
+
+ 
 
 
 ![IMG_20220628_200717](https://user-images.githubusercontent.com/92304590/176207093-e87cfe5c-407b-4fc3-896f-af5219d0f368.jpg)
